@@ -10,7 +10,7 @@ KPIs:
 
 Visuals:
 - Sales by Category (Bar Chart)
-- Sales by Region (Column Chart) 
+- Sales by Region (Column Chart)
 - Sales by Product (Bar Chart)
 
 Tools: Power BI Desktop, DAX, Data Visualization

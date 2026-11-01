@@ -1,4 +1,4 @@
- Churn Analysis & Customer Intelligence - Power BI
+  Churn Analysis & Customer Intelligence - Power BI
 
  Project 1: Superstore Sales Dashboard (Completed) ✅
 This dashboard tracks key business metrics for Superstore.
